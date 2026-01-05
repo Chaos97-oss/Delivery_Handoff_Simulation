@@ -27,4 +27,8 @@ This service models long-distance deliveries where multiple riders may sequentia
 npm install
 npm run start:dev
 
+API Endpoints
+POST /api/orders
+POST /api/orders/:id/start
+POST /api/orders/:id/finish
 
